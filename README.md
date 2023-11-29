@@ -59,8 +59,11 @@ In the example above:
 
 
 ### Writing PDF with Differences
+Writes new PDF file highlighting  differences between expected and actual files.
 
 ### Getting Differences Percentage and Writing PDF
+Compares two PDF files and returns  map of page numbers to percentage of differences on each page.
+Additionally, writes new PDF file highlighting the differences.
 
 # CMD Run
 
