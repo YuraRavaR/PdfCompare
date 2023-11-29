@@ -1,0 +1,8 @@
+/shelf/
+/workspace.xml
+.idea/
+*.log
+target/
+
+/src/test/
+
